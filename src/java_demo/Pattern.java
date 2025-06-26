@@ -9,6 +9,7 @@ public class Pattern {
         		System.out.print("*");
         	}
         	System.out.println();
+        	System.out.println("Hello I am Vishnu Priya");
         }
 	}
 
